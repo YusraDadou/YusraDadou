@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YusraDadou
 - 👀 I’m interested in video game design
 - 🌱 I’m currently learning visual scripting at Unity
-- 💞️ I’m looking to collaborate on video games in relation to psychometric tools
+- 💞️ I’m looking to collaborate video games with to psychometric tools
 - 📫 How to reach me contact@yusradesign.me
 
 <!---
